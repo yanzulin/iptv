@@ -1,16 +1,16 @@
 派森直播,#genre#
-凤凰中文台 ,mitv://generationnexxxt.com:19806/82176df4d34645d29cd3d021ab4fcfb5
-凤凰资讯台 ,mitv://generationnexxxt.com:19806/9601e432db8346318bc3f53bd6342b77
-凤凰香港台 ,mitv://generationnexxxt.com:19806/b798f9c3760f4ab293026c531ce7e07d
-凤凰电影台 ,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
-CHC高清电影 ,mitv://generationnexxxt.com:19806/dd917220abee49abbee90ffa427117ce
-CHC动作电影 ,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d11b
-CHC家庭影院 ,mitv://generationnexxxt.com:19806/502a4e7d1559401dbf6d8fbbd765d4a9
-TV5MONDE Style 生活时尚 ,mitv://generationnexxxt.com:19806/50a3974dcf7e431c91e8f212d708cd0f
-国家地理高画质野生频道 ,mitv://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7
-无线财经·资讯台 ,mitv://generationnexxxt.com:19806/a730755fb80b4e5aa7923bdd52e88f22
-无线新闻台(备) ,mitv://generationnexxxt.com:19806/bd60966852d044a194e8136c596219fb
-无线新闻台 ,mitv://generationnexxxt.com:19806/a532a9bc47be4ea7892f61843eeaf4fd
+凤凰中文台,mitv://generationnexxxt.com:19806/82176df4d34645d29cd3d021ab4fcfb5
+凤凰资讯台,mitv://generationnexxxt.com:19806/9601e432db8346318bc3f53bd6342b77
+凤凰香港台,mitv://generationnexxxt.com:19806/b798f9c3760f4ab293026c531ce7e07d
+凤凰电影台,mitv://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
+CHC高清电影,mitv://generationnexxxt.com:19806/dd917220abee49abbee90ffa427117ce
+CHC动作电影,mitv://generationnexxxt.com:19806/1c38c3ebe98f4365978a213d84d1d11b
+CHC家庭影院,mitv://generationnexxxt.com:19806/502a4e7d1559401dbf6d8fbbd765d4a9
+TV5MONDE Style 生活时尚,mitv://generationnexxxt.com:19806/50a3974dcf7e431c91e8f212d708cd0f
+国家地理高画质野生频道,mitv://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7
+无线财经·资讯台,mitv://generationnexxxt.com:19806/a730755fb80b4e5aa7923bdd52e88f22
+无线新闻台(备),mitv://generationnexxxt.com:19806/bd60966852d044a194e8136c596219fb
+无线新闻台,mitv://generationnexxxt.com:19806/a532a9bc47be4ea7892f61843eeaf4fd
 美国直播,#genre#
 WBTV,http://208.115.225.174:14132
 HBOHD,http://208.115.225.174:14136
