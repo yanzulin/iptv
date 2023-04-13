@@ -1,3 +1,22 @@
+美国直播,#genre#
+WB TV,http://208.115.225.174:14132
+HBOHD,http://208.115.225.174:14136
+HBO 2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+HBOxtreme,http://208.115.225.174:14165
+Sbt,http://208.115.225.174:14170
+Sbt,http://208.115.225.174:14173
+Sbt,http://208.115.225.174:14176
+Animal Planet,http://208.115.225.174:14192
+14259,http://208.115.225.174:14259
+BDMG,http://208.115.225.174:14263
+AOVIVO,http://208.115.225.174:14271
+Show FE,http://208.115.225.174:14420
+Show FE,http://208.115.225.174:14428
+Premiere,http://208.115.225.174:14460
+Premiere,http://208.115.225.174:14468
+ESPN 4,http://208.115.225.174:14510
 广东直播,#genre#
 广东*体育,http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
 广东5体育,http://iptv.eatuo.com:9901/tsfile/live/1001_1.m3u8
