@@ -1,3 +1,4 @@
+4K系列1,#genre#
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.135.55.72:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -847,6 +848,7 @@ CCTV5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/01.
 内蒙古卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7ECwdlT4H34wIQfKBQzIYJtQ%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=01#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/01.m3u8?servicetype=2&GuardEncType=2&accountinfo=%7E%7EV2.0%7ECwdlT4H34wIQfKBQzIYJtQ%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&HlsProfileId=&tenantId=8601&icpid=02#http://jwplay.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8?test/PLTV/=03
 移动频道_10086,#genre#
 山东教育,http://111.23.208.105:9908/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
