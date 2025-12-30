@@ -1430,7 +1430,7 @@ Now爆谷粤bx,http://rihou.cc:555/tv/[Bx]Now爆谷
 无线明珠,http://rihou.cc:555/tv/[Bx]无线明珠
 无线千禧,http://rihou.cc:555/tv/[Bx]无线千禧
 无线赛马,http://rihou.cc:555/tv/[Bx]无线赛马
-,#genre#
+粤语,#genre#
 粤语戏曲,http://tl.061833.xyz/tl/null-15
 粤语长片,http://tl.061833.xyz/tl/null-10
 ??特闽新闻??,video://https://live.douyin.com/933732405880
@@ -1581,6 +1581,7 @@ JET-综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 HISTORY,http://iptv.4666888.xyz/iptv2A.php?id=56
+
 
 
 
