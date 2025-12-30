@@ -1,46 +1,19 @@
-
 中数系列,#genre#
 央视文化精品,http://74.91.20.250:82/live/ysjp.m3u8?jsbt=1767078777&jsbk=f17a9e8c08a54b4c3887770eb58c8be2&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 风云音乐,http://74.91.16.250:82/live/fyyy.m3u8?jsbt=1767078561&jsbk=2d7e7338243b912296847c4fa612dbe1&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 怀旧剧场,http://74.91.16.250:82/live/hjjc.m3u8?jsbt=1767078567&jsbk=e69b6888f4beb76787fe52b70ce1403c&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 风云剧场,http://173.208.177.34:82/live/fyjc.m3u8?jsbt=1767078505&jsbk=95086a10d0ed29b798ac895943a98bb2&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
-
 风云足球,http://173.208.128.194:82/live/fyzq.m3u8?jsbt=1767078780&jsbk=589a5d85695fd09554dc964a3ec86cac&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
 第一剧场,http://69.30.238.178:82/live/dyjc.m3u8?jsbt=1767078618&jsbk=c0fb3d3906b6e54a523545e6be93ed9d&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
 世界地理,http://69.30.196.146:82/live/sjdl.m3u8?jsbt=1767078699&jsbk=b089d89616293d7eb322cbcbef55b395&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 央视台球,http://173.208.177.34:82/live/ystq.m3u8?jsbt=1767078534&jsbk=2136e31509c3bb51c9baf4ae43c2c580&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 兵器科技,http://198.204.229.234:82/live/gfjs.m3u8?jsbt=1767078655&jsbk=85a4fcfb4a3a1897c700e056f08927f5&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 女性时尚,http://198.204.229.234:82/live/nxss.m3u8?jsbt=1767078795&jsbk=bd28906ace86b6e3f3fe96355a1ba22b&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 电视指南,http://198.204.230.114:82/live/dszn.m3u8?jsbt=1767078675&jsbk=bae956a65de5e0a1534a95a13fcef708&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 卫生健康,http://198.204.233.138:82/live/wsjk.m3u8?jsbt=1767078599&jsbk=24b2d591e951582d1ec49bb7d2e7c67b&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 高尔夫网球,http://198.204.230.114:82/live/gefwq.m3u8?jsbt=1767078813&jsbk=213e36268ca557cf8c12aa0d81b37fce&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1767078692&jsbk=f56ecf6c3be88c7c2f31f07202de1d8c&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
-
 CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8?jsbt=1767078752&jsbk=35e22c5b5e06e3e750ded0681287001b&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-
 4K系列,#genre#
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
@@ -10833,6 +10806,7 @@ yuzukitty柚子猫之黑丝jk粉毛双马尾,https://t27.cdn2020.com/video/m3u8/
 三人游戏,https://t30.cdn2020.com/video/m3u8/2025/05/10/201de5c5/index.m3u8
 三人组最新迷玩杭州富家女完结版本,https://t26.cdn2020.com/video/m3u8/2022/06/02/757d0ddc/index.m3u8
 三人组迷奸检察院美女工装都没脱就给操了,https://t27.cdn2020.com/video/m3u8/2023/03/15/7b69c60a/index.m3u8
+
 
 
 
