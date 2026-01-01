@@ -1,6 +1,4 @@
-
-
-特闽FYtv,#genre#
+风云直播,#genre#
 SPOTV-2FYtv,http://iptv.4666888.xyz/iptv2A.php?id=1
 SPOTV-1FYtv,http://iptv.4666888.xyz/iptv2A.php?id=2
 Sports-3'FYtv,http://iptv.4666888.xyz/iptv2A.php?id=3
@@ -10283,3 +10281,4 @@ yuzukitty柚子猫之黑丝jk粉毛双马尾,https://t27.cdn2020.com/video/m3u8/
 三人游戏,https://t30.cdn2020.com/video/m3u8/2025/05/10/201de5c5/index.m3u8
 三人组最新迷玩杭州富家女完结版本,https://t26.cdn2020.com/video/m3u8/2022/06/02/757d0ddc/index.m3u8
 三人组迷奸检察院美女工装都没脱就给操了,https://t27.cdn2020.com/video/m3u8/2023/03/15/7b69c60a/index.m3u8
+
