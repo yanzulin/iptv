@@ -1,17 +1,80 @@
-中数系列,#genre#
-央视文化精品,http://74.91.20.250:82/live/ysjp.m3u8?jsbt=1767078777&jsbk=f17a9e8c08a54b4c3887770eb58c8be2&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-风云音乐,http://74.91.16.250:82/live/fyyy.m3u8?jsbt=1767078561&jsbk=2d7e7338243b912296847c4fa612dbe1&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-怀旧剧场,http://74.91.16.250:82/live/hjjc.m3u8?jsbt=1767078567&jsbk=e69b6888f4beb76787fe52b70ce1403c&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-风云剧场,http://173.208.177.34:82/live/fyjc.m3u8?jsbt=1767078505&jsbk=95086a10d0ed29b798ac895943a98bb2&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-风云足球,http://173.208.128.194:82/live/fyzq.m3u8?jsbt=1767078780&jsbk=589a5d85695fd09554dc964a3ec86cac&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-第一剧场,http://69.30.238.178:82/live/dyjc.m3u8?jsbt=1767078618&jsbk=c0fb3d3906b6e54a523545e6be93ed9d&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-世界地理,http://69.30.196.146:82/live/sjdl.m3u8?jsbt=1767078699&jsbk=b089d89616293d7eb322cbcbef55b395&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-央视台球,http://173.208.177.34:82/live/ystq.m3u8?jsbt=1767078534&jsbk=2136e31509c3bb51c9baf4ae43c2c580&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-兵器科技,http://198.204.229.234:82/live/gfjs.m3u8?jsbt=1767078655&jsbk=85a4fcfb4a3a1897c700e056f08927f5&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-女性时尚,http://198.204.229.234:82/live/nxss.m3u8?jsbt=1767078795&jsbk=bd28906ace86b6e3f3fe96355a1ba22b&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-电视指南,http://198.204.230.114:82/live/dszn.m3u8?jsbt=1767078675&jsbk=bae956a65de5e0a1534a95a13fcef708&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-卫生健康,http://198.204.233.138:82/live/wsjk.m3u8?jsbt=1767078599&jsbk=24b2d591e951582d1ec49bb7d2e7c67b&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
-高尔夫网球,http://198.204.230.114:82/live/gefwq.m3u8?jsbt=1767078813&jsbk=213e36268ca557cf8c12aa0d81b37fce&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
+
+
+特闽FYtv,#genre#
+SPOTV-2FYtv,http://iptv.4666888.xyz/iptv2A.php?id=1
+SPOTV-1FYtv,http://iptv.4666888.xyz/iptv2A.php?id=2
+Sports-3'FYtv,http://iptv.4666888.xyz/iptv2A.php?id=3
+Football-FYtv,http://iptv.4666888.xyz/iptv2A.php?id=4
+wwe格斗FYtv,http://iptv.4666888.xyz/iptv2A.php?id=5
+博运动壹FYtv,http://iptv.4666888.xyz/iptv2A.php?id=6
+CCTV-01FYtv,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV-02FYtv,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV-03FYtv,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV-04FYtv,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV-13FYtv,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV-14FYtv,http://iptv.4666888.xyz/iptv2A.php?id=12
+湖南卫视FYtv,http://iptv.4666888.xyz/iptv2A.php?id=13
+浙江卫视FYtv,http://iptv.4666888.xyz/iptv2A.php?id=14
+江苏卫视FYtv,http://iptv.4666888.xyz/iptv2A.php?id=15
+山西卫视FYtv,http://iptv.4666888.xyz/iptv2A.php?id=16
+青海卫视FYtv,http://iptv.4666888.xyz/iptv2A.php?id=17
+广东卫视FYtv,http://iptv.4666888.xyz/iptv2A.php?id=18
+广东珠江FYtv,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东体育FYtv,http://iptv.4666888.xyz/iptv2A.php?id=20
+爱奇艺综FYtv,http://iptv.4666888.xyz/iptv2A.php?id=21
+无线千禧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=22
+RTHK-31FYtv,http://iptv.4666888.xyz/iptv2A.php?id=23
+MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
+无线1美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=25
+无线J1美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=26
+凤凰中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=27
+无线华丽FYtv,http://iptv.4666888.xyz/iptv2A.php?id=28
+无线明珠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=29
+美亚电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=30
+有线新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=31
+CCTV-16FYtv,http://iptv.4666888.xyz/iptv2A.php?id=32
+无线翡剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=33
+无线翡翠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=34
+有线综合FYtv,http://iptv.4666888.xyz/iptv2A.php?id=35
+无线娱乐FYtv,http://iptv.4666888.xyz/iptv2A.php?id=36
+华艺中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=37
+八大綜合,http://iptv.4666888.xyz/iptv2A.php?id=38
+天映经典,http://iptv.4666888.xyz/iptv2A.php?id=39
+纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
+tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡商业FYtv,http://iptv.4666888.xyz/iptv2A.php?id=44
+龙华电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=45
+民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+ELta综合FYtv,http://iptv.4666888.xyz/iptv2A.php?id=49
+rock娱乐FYtv,http://iptv.4666888.xyz/iptv2A.php?id=50
+JET-综合FYtv,http://iptv.4666888.xyz/iptv2A.php?id=51
+八度空间FYtv,http://iptv.4666888.xyz/iptv2A.php?id=52
+民视影剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=53
+中视经典FYtv,http://iptv.4666888.xyz/iptv2A.php?id=54
+民视闽南FYtv,http://iptv.4666888.xyz/iptv2A.php?id=55
+EYE-戏剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1767078692&jsbk=f56ecf6c3be88c7c2f31f07202de1d8c&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
 CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8?jsbt=1767078752&jsbk=35e22c5b5e06e3e750ded0681287001b&app=com.zbdq2025.tvhd&version=1.4.3&ev=20250805
 4K系列,#genre#
@@ -24,52 +87,7 @@ CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8?jsbt=1767078752&jsbk=35e22c5b5
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
 TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-凤凰系列,#genre#
-凤凰中文,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 大爱,http://1tv41.icu:8080/12064871/04809732/215699
-极速风云,#genre#
-SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
-SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
-astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
-TntSports3,http://iptv.4666888.xyz/iptv2A.php?id=3
-wwwe,http://iptv.4666888.xyz/iptv2A.php?id=5
-博斯運動1,http://iptv.4666888.xyz/iptv2A.php?id=6
-鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
-RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
-MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
-TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
-澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
-TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
-非凡直播,http://iptv.4666888.xyz/iptv2A.php?id=44
-民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
-爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
-臺灣戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
-EYE戏剧,http://iptv.4666888.xyz/iptv2A.php?id=56
-緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=40
-東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
-美亚电影(台),http://iptv.4666888.xyz/iptv2A.php?id=30
-東森洋片,http://iptv.4666888.xyz/iptv2A.php?id=45
-爱尔达综合,http://iptv.4666888.xyz/iptv2A.php?id=49
-ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
-JET综合,http://iptv.4666888.xyz/iptv2A.php?id=51
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
-BBC_Earth,http://iptv.4666888.xyz/iptv2A.php?id=53
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 四季台湾1,#genre#
 民視第一台,http://210.61.15.55:50007/4gtv-4gtv003/index.m3u8?proxy=true
 民視台灣台,http://210.61.15.55:50007/4gtv-4gtv001/index.m3u8?proxy=true
@@ -903,58 +921,7 @@ CCTV-17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
 
-特闽FYtv,#genre#
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
-无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
-无线华丽,http://iptv.4666888.xyz/iptv2A.php?id=28
-无线明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-无线娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
-无线千禧,http://iptv.4666888.xyz/iptv2A.php?id=22
-无线1美,http://iptv.4666888.xyz/iptv2A.php?id=25
-无线J1美,http://iptv.4666888.xyz/iptv2A.php?id=26
-无线翡剧,http://iptv.4666888.xyz/iptv2A.php?id=33
-有线综合,http://iptv.4666888.xyz/iptv2A.php?id=35
-美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
-RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
-tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-民视闽南,http://iptv.4666888.xyz/iptv2A.php?id=55
-民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
-民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
-非凡商业,http://iptv.4666888.xyz/iptv2A.php?id=44
-华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
-博运动壹,http://iptv.4666888.xyz/iptv2A.php?id=6
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
-爱奇艺综,http://iptv.4666888.xyz/iptv2A.php?id=21
-JET-综合,http://iptv.4666888.xyz/iptv2A.php?id=51
-ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
-rock娱乐,http://iptv.4666888.xyz/iptv2A.php?id=50
-EYE-戏剧,http://iptv.4666888.xyz/iptv2A.php?id=56
-wwe格斗,http://iptv.4666888.xyz/iptv2A.php?id=5
-SPOTV-1,http://iptv.4666888.xyz/iptv2A.php?id=2
-SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
-Football-,http://iptv.4666888.xyz/iptv2A.php?id=4
-Sports-3',http://iptv.4666888.xyz/iptv2A.php?id=3
-CCTV-01,http://iptv.4666888.xyz/iptv2A.php?id=7
-CCTV-02,http://iptv.4666888.xyz/iptv2A.php?id=8
-CCTV-03,http://iptv.4666888.xyz/iptv2A.php?id=9
-CCTV-04,http://iptv.4666888.xyz/iptv2A.php?id=10
-CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
-CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
-CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
-浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
-江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
-湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
-广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
-山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
-青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
+
 特新Pdtv,#genre#
 Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -1020,7 +987,7 @@ Astroaod,http://rihou.cc:555/tv/[PL]Astroaod
 粤语,#genre#
 粤语戏曲,http://tl.061833.xyz/tl/null-15
 粤语长片,http://tl.061833.xyz/tl/null-10
-??特闽新闻??,video://https://live.douyin.com/933732405880
+特闽新闻,video://https://live.douyin.com/933732405880
 有线新闻,http://rihou.cc:555/tv/[Mt]有线新闻
 有线新闻,http://rihou.cc:555/tv/[FY]有线新闻
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
@@ -1111,64 +1078,6 @@ RTHK-31,http://rihou.cc:555/tv/[Mt]RTHK-31
 RTHK-31,http://rihou.cc:555/tv/[Cx]RTHK-31
 RTHK-32,http://rihou.cc:555/tv/[Cx]RTHK-32
 wwe格斗,http://rihou.cc:555/tv/[FY]wwe格斗
-风云4666888,#genre#
-SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
-SPOTV-1,http://iptv.4666888.xyz/iptv2A.php?id=2
-TNT SPORTS 1,http://iptv.4666888.xyz/iptv2A.php?id=3
-SKY SPORTS Football,http://iptv.4666888.xyz/iptv2A.php?id=4
-WWE,http://iptv.4666888.xyz/iptv2A.php?id=5
-博斯运动1,http://iptv.4666888.xyz/iptv2A.php?id=6
-CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
-CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
-CCTV-3,http://iptv.4666888.xyz/iptv2A.php?id=9
-CCTV-4,http://iptv.4666888.xyz/iptv2A.php?id=10
-CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
-CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
-CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
-湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
-浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
-江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
-山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
-青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
-广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
-广东珠江风云,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东体育风云,http://iptv.4666888.xyz/iptv2A.php?id=20
-爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
-无线千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
-RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
-MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-无线TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-无线华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
-明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
-HOY 78,http://iptv.4666888.xyz/iptv2A.php?id=31
-TVB DRAMA,http://iptv.4666888.xyz/iptv2A.php?id=33
-翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
-HOY 76,http://iptv.4666888.xyz/iptv2A.php?id=36
-华艺中文台,http://iptv.4666888.xyz/iptv2A.php?id=37
-八大綜合,http://iptv.4666888.xyz/iptv2A.php?id=38
-天映经典,http://iptv.4666888.xyz/iptv2A.php?id=39
-纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
-tvbs新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
-非凡商业,http://iptv.4666888.xyz/iptv2A.php?id=44
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
-TVBS精彩台,http://iptv.4666888.xyz/iptv2A.php?id=47
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-ELta综合,http://iptv.4666888.xyz/iptv2A.php?id=49
-rock娱乐,http://iptv.4666888.xyz/iptv2A.php?id=50
-JET-综合,http://iptv.4666888.xyz/iptv2A.php?id=51
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
-民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
-民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-HISTORY,http://iptv.4666888.xyz/iptv2A.php?id=56
-
 成人频道_10086,#genre#
 彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts 
 惊艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
@@ -2598,7 +2507,7 @@ IPZZ-054 人妻自家性愛按摩院-相澤南,https://t26.cdn2020.com/video/m3u
 IPZZ-059 出差遇到大下雨-西宮夢,https://t26.cdn2020.com/video/m3u8/2023/07/05/96d10fbc/index.m3u8
 IPZZ-061 变态中年教师-桃乃木加奈,https://t26.cdn2020.com/video/m3u8/2023/08/07/43449bec/index.m3u8
 IPZZ-063 无限射精的乐园-樱空桃,https://t26.cdn2020.com/video/m3u8/2023/08/08/12084bf6/index.m3u8
-IPZZ-065 在出差处交换-明里䌷,https://t26.cdn2020.com/video/m3u8/2023/07/29/b6b1f32a/index.m3u8
+IPZZ-065 在出差处交换-明里?,https://t26.cdn2020.com/video/m3u8/2023/07/29/b6b1f32a/index.m3u8
 IPZZ-066 你的口交实在太棒了-希岛爱理,https://t26.cdn2020.com/video/m3u8/2023/07/29/9ac4c242/index.m3u8
 IPZZ-070 对M男的到宅突击访问,https://t26.cdn2020.com/video/m3u8/2023/07/22/cd32603c/index.m3u8
 IPZZ-077 和美女交换唾液-三上悠亚,https://t26.cdn2020.com/video/m3u8/2023/08/02/2400be7f/index.m3u8
@@ -2606,7 +2515,7 @@ IPZZ-078 老公不在家时-仲村美由,https://t26.cdn2020.com/video/m3u8/2023
 IPZZ-084 超短裙痴女教师-西宫梦,https://t26.cdn2020.com/video/m3u8/2023/08/22/f5c7c07f/index.m3u8
 IPZZ-086 失恋OL女子-桃乃木加奈,https://t26.cdn2020.com/video/m3u8/2023/08/30/77671fcb/index.m3u8
 IPZZ-088 无尽射精内射欲望-樱空桃,https://t26.cdn2020.com/video/m3u8/2023/09/02/9d81c072/index.m3u8
-IPZZ-090 是和处男学生的SEX练习-明里䌷,https://t26.cdn2020.com/video/m3u8/2023/09/02/3b6d11cf/index.m3u8
+IPZZ-090 是和处男学生的SEX练习-明里?,https://t26.cdn2020.com/video/m3u8/2023/09/02/3b6d11cf/index.m3u8
 IPZZ-091 因为家访而被学生父亲下媚药,https://t26.cdn2020.com/video/m3u8/2023/09/05/9fa81a79/index.m3u8
 IPZZ-102 最喜欢大叔的新人员工轻声细语的诱惑,https://t26.cdn2020.com/video/m3u8/2023/09/27/58e1be1e/index.m3u8
 IPZZ-105 亲密做爱约会-明里紬,https://t26.cdn2020.com/video/m3u8/2023/09/28/54590209/index.m3u8
@@ -2670,7 +2579,7 @@ IPZZ-308 婚前同学会-枫可怜,https://t27.cdn2020.com/video/m3u8/2024/07/04
 IPZZ-316 口交NTR-西宫梦,https://t27.cdn2020.com/video/m3u8/2024/08/09/74bb5a36/index.m3u8
 IPZZ-317 你为我种下的爱的种子-桃乃木香奈,https://t27.cdn2020.com/video/m3u8/2024/07/27/07dc2836/index.m3u8
 IPZZ-319 逆兔女郎的风俗天堂-樱空桃,https://t27.cdn2020.com/video/m3u8/2024/08/09/68013231/index.m3u8
-IPZZ-320 居然遇见了经理部的OL-明里䌷,https://t27.cdn2020.com/video/m3u8/2024/07/27/21ad1f38/index.m3u8
+IPZZ-320 居然遇见了经理部的OL-明里?,https://t27.cdn2020.com/video/m3u8/2024/07/27/21ad1f38/index.m3u8
 IPZZ-329 可爱又淫荡的OL跟她去开房间,https://t27.cdn2020.com/video/m3u8/2024/08/09/03e7cf82/index.m3u8
 IPZZ-339 喝醉后裸体诱惑我和同事-西宫梦,https://t27.cdn2020.com/video/m3u8/2024/09/09/02c92760/index.m3u8
 IPZZ-340 可爱又淫荡的后辈OL-桃乃木香奈,https://t27.cdn2020.com/video/m3u8/2024/09/09/31dbe027/index.m3u8
@@ -2698,7 +2607,7 @@ IPZZ-409 完全被NTR的影片-希岛爱理,https://t27.cdn2020.com/video/m3u8/2
 IPZZ-413 口水与淫水直流-佐佐木沙希,https://t27.cdn2020.com/video/m3u8/2024/11/26/d1556b2b/index.m3u8
 IPZZ-415 仔细品尝味道的口交-枫可怜,https://t27.cdn2020.com/video/m3u8/2024/11/23/259e15ae/index.m3u8
 IPZZ-424 极品身材女孩的翻云覆雨-西宫梦,https://t27.cdn2020.com/video/m3u8/2024/12/18/b12988ba/index.m3u8
-IPZZ-428 这样你就真的愿意加入吗-明里䌷,https://t27.cdn2020.com/video/m3u8/2024/12/22/8904da97/index.m3u8
+IPZZ-428 这样你就真的愿意加入吗-明里?,https://t27.cdn2020.com/video/m3u8/2024/12/22/8904da97/index.m3u8
 IPZZ-429 上门拜访宅男-希岛爱里,https://t27.cdn2020.com/video/m3u8/2024/12/22/54a236e9/index.m3u8
 IPZZ-435 为修学旅行实地考察时-枫可怜,https://t27.cdn2020.com/video/m3u8/2024/12/20/3c1b0499/index.m3u8
 IPZZ-442 未婚夫的哥哥是-仲村美由,https://t27.cdn2020.com/video/m3u8/2024/09/30/e01cc09e/index.m3u8
@@ -2706,7 +2615,7 @@ IPZZ-443 美女裸體NTR-仲村美羽,https://t27.cdn2020.com/video/m3u8/2024/10
 IPZZ-444 美女人妻美容师-仲村美羽,https://t27.cdn2020.com/video/m3u8/2024/11/24/6212d33b/index.m3u8
 IPZZ-445 大爆射15发-天海翼,https://t27.cdn2020.com/video/m3u8/2024/10/23/fb45b09b/index.m3u8
 IPZZ-450 整天嘲笑我的辣妹姐姐-樱空桃,https://t30.cdn2020.com/video/m3u8/2025/01/30/55a4f1bf/index.m3u8
-IPZZ-451 超高极男士美容-明里䌷,https://t30.cdn2020.com/video/m3u8/2025/01/30/49bfb0fc/index.m3u8
+IPZZ-451 超高极男士美容-明里?,https://t30.cdn2020.com/video/m3u8/2025/01/30/49bfb0fc/index.m3u8
 IPZZ-452 让调皮过头的同伴女友喝下酒与安眠药,https://t30.cdn2020.com/video/m3u8/2025/01/27/6cccb037/index.m3u8
 IPZZ-456 偷东西的辣妹陷入了被不断追着干的悲剧,https://t30.cdn2020.com/video/m3u8/2025/01/30/a2f3fb1e/index.m3u8
 IPZZ-457 成为目标的丝袜美腿女教师-RARA,https://t30.cdn2020.com/video/m3u8/2025/02/08/ae809cc3/index.m3u8
@@ -2728,7 +2637,7 @@ IPZZ-514 第一次挑战禁欲春药高潮-白云雨,https://t30.cdn2020.com/vid
 IPZZ-519 美少女用快乐填满你的大脑-佐佐木纱希,https://t30.cdn2020.com/video/m3u8/2025/03/29/76b41a21/index.m3u8
 IPZZ-523 公司里那位我暗恋的偶像级女同事,https://t30.cdn2020.com/video/m3u8/2025/04/15/39f56e0e/index.m3u8
 IPZZ-524 奶头超敏感男孩必看-樱空桃,https://t30.cdn2020.com/video/m3u8/2025/04/15/06074eee/index.m3u8
-IPZZ-525 一个放荡饥渴的未婚女子-明里䌷,https://t30.cdn2020.com/video/m3u8/2025/04/16/4ad99c77/index.m3u8
+IPZZ-525 一个放荡饥渴的未婚女子-明里?,https://t30.cdn2020.com/video/m3u8/2025/04/16/4ad99c77/index.m3u8
 IPZZ-541 烂醉后发现邻家女孩半裸着-佐佐木纱希,https://t30.cdn2020.com/video/m3u8/2025/04/15/81de6c34/index.m3u8
 IPZZ-542 继子在给女性用的温泉中完全勃起了,https://t30.cdn2020.com/video/m3u8/2025/02/27/6bfddf80/index.m3u8
 IPZZ-544 女性风俗店潜入调查-西宫梦,https://t30.cdn2020.com/video/m3u8/2025/05/21/419537ca/index.m3u8
@@ -2831,7 +2740,7 @@ JUQ-502 在每个月最容易怀孕的危险日-森日向子,https://t27.cdn2020
 JUQ-505 上司的妻子-篠田优,https://t26.cdn2020.com/video/m3u8/2024/01/10/7a58e9ea/index.m3u8
 JUQ-521 奇迹联动第二弹-石原希望,https://t26.cdn2020.com/video/m3u8/2024/02/04/794bd327/index.m3u8
 JUQ-530 舔湿我爱液润湿的小穴-神宫寺奈绪,https://t26.cdn2020.com/video/m3u8/2024/01/22/bfa6dfb5/index.m3u8
-JUQ-541 人妻收到了一把备用钥匙-明里䌷,https://t26.cdn2020.com/video/m3u8/2024/01/27/bff204cc/index.m3u8
+JUQ-541 人妻收到了一把备用钥匙-明里?,https://t26.cdn2020.com/video/m3u8/2024/01/27/bff204cc/index.m3u8
 JUQ-589 被老公老板强暴的第七天-枫芙爱,https://t27.cdn2020.com/video/m3u8/2024/07/04/1e3dfeba/index.m3u8
 JUQ-630 和町内会长之间的情人契约-二宫光,https://t27.cdn2020.com/video/m3u8/2024/05/12/65e49180/index.m3u8
 JUQ-641 早晚在温泉旅馆的窝里进行不伦中出性爱,https://t27.cdn2020.com/video/m3u8/2024/03/28/e393c8eb/index.m3u8
@@ -2863,7 +2772,7 @@ JUQ-891 梦寐以求的咖啡店员-希岛爱理,https://t27.cdn2020.com/video/m
 JUQ-893 超浓厚中出3本番-惠理,https://t27.cdn2020.com/video/m3u8/2024/11/08/1ea76e36/index.m3u8
 JUQ-902 对30岁还保持童贞的弟弟感到同情,https://t27.cdn2020.com/video/m3u8/2024/10/07/58a5e3ca/index.m3u8
 JUQ-905 老师被爸爸侵犯-日下部加奈,https://t27.cdn2020.com/video/m3u8/2024/11/04/a325d498/index.m3u8
-JUQ-907 儿子的同学欲望太强-明里䌷,https://t27.cdn2020.com/video/m3u8/2024/10/19/3210e148/index.m3u8
+JUQ-907 儿子的同学欲望太强-明里?,https://t27.cdn2020.com/video/m3u8/2024/10/19/3210e148/index.m3u8
 JUQ-908 在脱衣舞剧场跳舞的人妻-竹内有紀,https://t27.cdn2020.com/video/m3u8/2024/11/08/c45490e9/index.m3u8
 JUQ-913 套房戴绿帽NTR-水户香奈,https://t27.cdn2020.com/video/m3u8/2024/12/24/e66ebf5b/index.m3u8
 JUQ-921 内衣模特儿NTR-西宫梦,https://t27.cdn2020.com/video/m3u8/2024/09/13/8e940dd6/index.m3u8
@@ -3087,7 +2996,7 @@ MEYD-075 子宫颈被按摩开发后堕落的人妻,https://t27.cdn2020.com/vide
 MEYD-084 丈夫的继子是个畜生-东凛,https://t27.cdn2020.com/video/m3u8/2024/11/08/03683574/index.m3u8
 MEYD-085 银座的传说-本城小百合,https://t27.cdn2020.com/video/m3u8/2024/12/21/29d09084/index.m3u8
 MEYD-136-我一直被老公的老板性侵着-佐佐木明希,https://t33.cdn2020.com/video/m3u8/2025/11/12/bd65847b/index.m3u8
-MEYD-801 欲求不满的团地妻-明里䌷,https://t27.cdn2020.com/video/m3u8/2023/04/24/db2a888f/index.m3u8
+MEYD-801 欲求不满的团地妻-明里?,https://t27.cdn2020.com/video/m3u8/2023/04/24/db2a888f/index.m3u8
 MEYD-806 为了给心爱的老公还债-明里紬,https://t27.cdn2020.com/video/m3u8/2023/05/05/0c2334f1/index.m3u8
 MEYD-812 被淫药引诱堕落成为任人中出肉便器,https://t26.cdn2020.com/video/m3u8/2023/06/21/3a1ac29f/index.m3u8
 MEYD-835 我其实 一直被丈夫的上司侵犯,https://t26.cdn2020.com/video/m3u8/2023/09/07/d9159878/index.m3u8
@@ -3715,7 +3624,7 @@ PRED-769-小镇欲求不满人妻与大叔们的最糟-森泽佳奈,https://t30.
 PRED-771-把帮助身体不舒服的老师送回家中-明里紬,https://t30.cdn2020.com/video/m3u8/2025/05/30/bece906a/index.m3u8
 PRED-772-承担了女上司所有犯下的过错-山岸绮花,https://t30.cdn2020.com/video/m3u8/2025/06/25/d6594a11/index.m3u8
 PRED-775-结婚离职前-白峰美羽,https://t30.cdn2020.com/video/m3u8/2025/05/28/cb6c31d6/index.m3u8
-PRED-779-和妻子陷入倦怠期的我被小姨子给诱惑-明里䌷,https://t30.cdn2020.com/video/m3u8/2025/06/24/c375b3bd/index.m3u8
+PRED-779-和妻子陷入倦怠期的我被小姨子给诱惑-明里?,https://t30.cdn2020.com/video/m3u8/2025/06/24/c375b3bd/index.m3u8
 PRED-781-突击报导亲身潜入揭露地下风俗实况-山岸绮花,https://t30.cdn2020.com/video/m3u8/2025/07/29/ee8241d1/index.m3u8
 PRED-785-总是高高在上的女上司紬-明里紬,https://t30.cdn2020.com/video/m3u8/2025/07/24/bf42fbe7/index.m3u8
 PRED-795-让我陷入欲罢不能的情人深沼-明里紬,https://t33.cdn2020.com/video/m3u8/2025/08/31/c1f24964/index.m3u8
@@ -10374,16 +10283,3 @@ yuzukitty柚子猫之黑丝jk粉毛双马尾,https://t27.cdn2020.com/video/m3u8/
 三人游戏,https://t30.cdn2020.com/video/m3u8/2025/05/10/201de5c5/index.m3u8
 三人组最新迷玩杭州富家女完结版本,https://t26.cdn2020.com/video/m3u8/2022/06/02/757d0ddc/index.m3u8
 三人组迷奸检察院美女工装都没脱就给操了,https://t27.cdn2020.com/video/m3u8/2023/03/15/7b69c60a/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
