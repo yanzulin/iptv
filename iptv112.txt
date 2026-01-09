@@ -907,32 +907,11 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 粤语戏曲,http://tl.061833.xyz/tl/null-15
 粤语长片,http://tl.061833.xyz/tl/null-10
 特闽新闻,video://https://live.douyin.com/933732405880
-
-有线新闻,http://rihou.cc:555/tv/[Bx]有线新闻
-
-有线新闻,http://rihou.cc:555/tv/[Bx]有线新闻
-
 无线新闻,http://rihou.cc:555/tv/[Bx]无线新闻
-
-无线新闻,http://rihou.cc:555/tv/[Bx]无线新闻
-
-无线新闻,http://rihou.cc:555/tv/[Bx]无线新闻
-
-无线新闻,http://rihou.cc:555/tv/[Bx]无线新闻
-
 Now新闻,http://rihou.cc:555/tv/[Bx]Now新闻
-
-Now新闻,http://rihou.cc:555/tv/[Bx]Now新闻
-
-中天新闻,http://rihou.cc:555/tv/[Bx]中天新聞
-
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-
-寰宇新闻,http://rihou.cc:555/tv/[Bx]寰宇新闻
-
-东森新闻,http://rihou.cc:555/tv/[Bx]东森新闻
 
 中视新闻,http://rihou.cc:555/tv/[Bx]中视新闻
 
@@ -957,9 +936,6 @@ tvbS闽南,http://rihou.cc:555/tv/[Bx]tvbs闽南
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
 
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
-
-特闽电影,video://https://yangshipin.cn/tv/home?pid=600156816
-
 popc电影,http://rihou.cc:555/tv/[Bx]popc电影
 
 popc电影,http://rihou.cc:555/tv/[Bx]popc电影
@@ -1088,7 +1064,7 @@ RTHK-32,http://rihou.cc:555/tv/[Bx]RTHK-32
 wwe格斗,http://rihou.cc:555/tv/[Bx]wwe格斗
 
 
-
+四川直播_10086,#genre#
 
 CCTV1,http://nas.yzs10000.com:17777/rtp/239.94.0.31:5140
 
@@ -12427,6 +12403,7 @@ CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 佳木斯综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
 
 
