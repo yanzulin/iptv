@@ -22,8 +22,6 @@ CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8?jsbt=1767078752&jsbk=35e22c5b5
 咪咕赛事,#genre#
 咪咕4K-①,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1&$30M UHD 50FPS
 咪咕4K-②,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&$24M UHD
-咪咕赛事1,http://gslbserv.itv.cmvideo.cn:80/2000000003000000063/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000063&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-咪咕赛事2,http://gslbserv.itv.cmvideo.cn:80/1000000006000270004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270004&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 咪咕赛事3,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 咪咕赛事4,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 咪咕赛事5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&mode=1&$8M FHD
@@ -13004,4 +13002,5 @@ CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 佳木斯综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
