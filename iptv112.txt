@@ -19,7 +19,7 @@ CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8?jsbt=1767078752&jsbk=35e22c5b5
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
-﻿电信频道,#genre#
+连播电影频道,#genre#
 周星驰,http://47.108.228.131:26665/huya.php?id=11342412
 林正英,http://47.108.228.131:26665/huya.php?id=11342421
 成龙,http://47.108.228.131:26665/huya.php?id=11342386
@@ -13138,6 +13138,7 @@ CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 佳木斯综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
 
 
