@@ -1,6 +1,11 @@
 Vip客户请联系QQ657960841,#genr
 江苏卫视4官网K,https://litchi-play-encrypted.jstv.com/applive/jsws4kpro.m3u8?txSecret=e727b20cad48416bb100fbe153d05f92&txTime=1769680989
-??rihou网络央卫网,#genre#
+江苏卫视,http://rihou.cc:555/tv/江苏卫视4K
+浙江卫视,http://rihou.cc:555/tv/浙江卫视4K
+东方卫视,http://rihou.cc:555/tv/东方卫视4K
+北京卫视,http://rihou.cc:555/tv/北京卫视4K
+四川卫视,http://rihou.cc:555/tv/四川卫视4K
+CCTV16(4K),http://rihou.cc:555/tv/CCTV16(4K)
 CCTV1,http://rihou.cc:555/tv/CCTV1酒店
 CCTV2,http://rihou.cc:555/tv/CCTV2酒店
 CCTV3,http://rihou.cc:555/tv/CCTV3酒店
@@ -20,10 +25,7 @@ CCTV13,http://rihou.cc:555/tv/CCTV13酒店
 CCTV14,http://rihou.cc:555/tv/CCTV14酒店
 CCTV15,http://rihou.cc:555/tv/CCTV15酒店
 CCTV16,http://rihou.cc:555/tv/CCTV16酒店
-CCTV16(4K),http://rihou.cc:555/tv/CCTV16(4K)
 CCTV17,http://rihou.cc:555/tv/CCTV17酒店
-CCTV4K,http://rihou.cc:555/tv/CCTV4K
-CCTV8K,http://rihou.cc:555/tv/CCTV8K
 CGTN,http://rihou.cc:555/tv/CGTN
 CGTN法语,http://rihou.cc:555/tv/CGTN法语
 CGTN俄语,http://rihou.cc:555/tv/CGTN俄语
@@ -37,7 +39,7 @@ CCTV世界地理,http://rihou.cc:555/tv/CCTV世界地理
 CCTV风云音乐,http://rihou.cc:555/tv/CCTV风云音乐 
 CCTV兵器科技,http://rihou.cc:555/tv/CCTV兵器科技 
 CCTV风云足球,http://rihou.cc:555/tv/CCTV风云足球
-CCTV高尔夫·网球,http://rihou.cc:555/tv/CCTV高尔夫·网球 
+CCTV高尔夫网球,http://rihou.cc:555/tv/CCTV高尔夫·网球 
 CCTV女性时尚,http://rihou.cc:555/tv/CCTV女性时尚
 CCTV央视文化精品,http://rihou.cc:555/tv/CCTV央视文化 
 CCTV央视台球,http://rihou.cc:555/tv/CCTV央视台球
@@ -57,13 +59,8 @@ CETV4,http://rihou.cc:555/tv/CETV4
 厦门卫视,http://rihou.cc:555/tv/厦门卫视
 广西卫视,http://rihou.cc:555/tv/广西卫视
 重庆卫视,http://rihou.cc:555/tv/重庆卫视
-四川卫视,http://rihou.cc:555/tv/四川卫视4K
 云南卫视,http://rihou.cc:555/tv/云南卫视  
 贵州卫视,http://rihou.cc:555/tv/贵州卫视
-江苏卫视,http://rihou.cc:555/tv/江苏卫视4K
-浙江卫视,http://rihou.cc:555/tv/浙江卫视4K
-东方卫视,http://rihou.cc:555/tv/东方卫视4K
-北京卫视,http://rihou.cc:555/tv/北京卫视4K
 湖南卫视,http://rihou.cc:555/tv/湖南卫视
 湖北卫视,http://rihou.cc:555/tv/湖北卫视
 黑龙江卫视,http://rihou.cc:555/tv/黑龙江卫视
