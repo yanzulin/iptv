@@ -1,4 +1,11 @@
 Vip客户请联系QQ657960841,#genr
+梅州综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88895
+清远综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88896
+汕头综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88897
+汕尾综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88898
+韶关综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88899
+阳江综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88901
+云浮综合,webview://https://api.chinaaudiovisual.cn/share_view/html/shareAudition.html?id=88902
 江苏卫视4官网K,https://litchi-play-encrypted.jstv.com/applive/jsws4kpro.m3u8?txSecret=e727b20cad48416bb100fbe153d05f92&txTime=1769680989
 江苏卫视,http://rihou.cc:555/tv/江苏卫视4K
 浙江卫视,http://rihou.cc:555/tv/浙江卫视4K
