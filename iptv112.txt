@@ -1,4 +1,4 @@
-港台卫视,#genre#
+HHZT港台,#genre#
 凤凰中文,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229422/110077577.smil
 凤凰资讯,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229423/110077527.smil
 凤凰中文,http://www.liangcl.top:8686/udp/233.50.202.35:5140
