@@ -1,3 +1,4 @@
+HHZT天威1,#genre#
 Vip1客户请联系QQ,#genr
 CCTV1,http://115.44.140.170:18180/TV00000000000000000068@HHZT
 CCTV2,http://115.44.140.170:18180/TV00000000000000000002@HHZT
@@ -76,7 +77,7 @@ VIUTV 6,http://115.44.140.170:18180/TV00000000000000000084@HHZT
 内蒙古卫视,http://115.44.140.170:18180/TV00000000000000000083@HHZT
 黑龙江卫视,http://115.44.140.170:18180/TV00000000000000000016@HHZT
 江苏卫视4官网K,https://litchi-play-encrypted.jstv.com/applive/jsws4kpro.m3u8?txSecret=e727b20cad48416bb100fbe153d05f92&txTime=1769680989
-Vip客户请联系QQ,#genr
+酒店源,#genre#
 CCTV1,http://rihou.cc:555/tv/CCTV1酒店
 CCTV2,http://rihou.cc:555/tv/CCTV2酒店
 CCTV3,http://rihou.cc:555/tv/CCTV3酒店
